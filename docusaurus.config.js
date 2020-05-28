@@ -78,9 +78,6 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
     },
   },
-  plugins: [
-    require.resolve('./docusaurus.plugin.pnp'),
-  ],
   presets: [
     [
       '@docusaurus/preset-classic',

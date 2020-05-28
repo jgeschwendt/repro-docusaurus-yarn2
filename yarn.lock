@@ -1594,7 +1594,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@docusaurus/utils@npm:^2.0.0-alpha.54, @docusaurus/utils@npm:^2.0.0-alpha.56":
+"@docusaurus/utils@npm:^2.0.0-alpha.56":
   version: 2.0.0-alpha.56
   resolution: "@docusaurus/utils@npm:2.0.0-alpha.56"
   dependencies:
@@ -12667,7 +12667,6 @@ fsevents@~2.1.2:
     "@docusaurus/preset-classic": ^2.0.0-alpha.56
     "@mdx-js/react": 1.6.4
     classnames: ^2.2.6
-    pnp-webpack-plugin: ^1.6.4
     react: ^16.8.4
     react-dom: ^16.8.4
   languageName: unknown
